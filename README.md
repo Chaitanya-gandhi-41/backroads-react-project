@@ -1,7 +1,8 @@
 # Backroads
 
-view live site here  <a href="https://aaeb-backroads.netlify.app/" target="blank"> backroads-react-project</a>
-Backroads is a website built using React JS for travelers looking for unique and adventurous experiences. It's a basic React app that provides information about various destinations, travel itineraries, and activities for those who enjoy exploring the outdoors.
+view live site here  <a href="https://aaeb-backroads.netlify.app/" target="_blank"> backroads-react-project</a>
+
+ Backroads is a website built using React JS for travelers looking for unique and adventurous experiences. It's a basic React app that provides information about various destinations, travel itineraries, and activities for those who enjoy exploring the outdoors.
 
 ![image](https://user-images.githubusercontent.com/115097449/232229238-e8c453aa-5721-4373-b030-05b075375d7e.png)
 ![image](https://user-images.githubusercontent.com/115097449/232229248-38c0a88a-4b05-446f-bb4e-c19c2d4b59b7.png)
